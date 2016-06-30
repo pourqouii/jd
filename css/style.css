@@ -237,7 +237,7 @@ a {
 
 a:hover {
     text-decoration: none;
-    color: #25CBF5;
+    color: #1771BD;
 }
 
 a:active {
@@ -998,7 +998,7 @@ ul.bar-styling li > .comments-likes:hover,
 ul.page-numbers li > a:hover,
 ul.page-numbers li > span.current {
     color: #ffffff !important;
-    background: #25CBF5;
+    background: #1771BD;
     border-color: #25CBF5;
 }
 
@@ -2337,7 +2337,7 @@ h4.v-line-heading:before {
 .pagination > .active > span:hover,
 .pagination > .active > a:focus,
 .pagination > .active > span:focus {
-    background-color: #25CBF5;
+    background-color: #1771BD;
     border-color: #25CBF5;
 }
 
@@ -2351,7 +2351,7 @@ h4.v-line-heading:before {
 .pagination > li:not(.active) > a:hover,
 .pagination > li:not(.active) > span:hover {
     color: #ffffff!important;
-    background: #25CBF5;
+    background: #1771BD;
     border-color: #25CBF5;
 }
 
