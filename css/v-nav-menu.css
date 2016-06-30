@@ -130,7 +130,7 @@ header.transparent-header nav ul.nav-main > li > a {
 }
 
 header.semi-transparent-header {
-    border-bottom: 1px solid rgba(228, 228, 228, 0.23);
+    border-bottom: 0px  
 }
 
 header.semi-transparent-header nav ul.nav-main > li > a {
@@ -635,8 +635,8 @@ header nav ul.nav-main li a {
     letter-spacing: 0px;
     text-shadow: 0 0px 0px rgba(0, 0, 0, 0.0);
     font-size: 13px;
-    font-weight: 500;
-    font-family: Raleway !important;
+    font-weight: 400;
+    font-family: 'Rboto', sans-serif !important;
 }
 
 header nav ul.nav-main li a:hover {
