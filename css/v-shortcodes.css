@@ -3181,3 +3181,11 @@ span.progress-bar-tooltip:after {
     font-size: 36px;
     vertical-align: 0px;
 }
+
+#one{
+    padding-bottom: 85px;
+}
+
+#two{
+    padding-bottom:105px;
+}
