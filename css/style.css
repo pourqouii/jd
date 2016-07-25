@@ -69,7 +69,7 @@ span.dropcap4,
 .header-advert,
 .v-icon-character,
 .v-fancy-heading h1 {
-    font-family: "Museo500Regular", Arial, Helvetica, Tahoma, sans-serif;
+font-family: 'Roboto', sans-serif;
 }
 
 h6,
@@ -3335,13 +3335,13 @@ p.v-smash-text-large {
     font-size: 30px !important;
     line-height: 40px;
     margin-bottom: 0;
-    font-family: MuseoSlab500Regular;
+  font-family: 'Roboto', sans-serif;
 }
 
 p.v-smash-text-large-2x {
     font-size: 36px !important;
     line-height: 48px;
-    font-family: MuseoSlab500Regular;
+   font-family: 'Roboto', sans-serif;
 }
 
 .v-smash-text .v-call-text p {
@@ -3380,7 +3380,7 @@ p.v-smash-text-large-2x {
     font-weight: 400 !important;
     color: #8c8c8c !important;
     margin-top: 0px;
-    font-family: MuseoSlab500Regular;
+    font-family: 'Roboto', sans-serif;
 }
 
 .v-call-to-action.v-bg-stylish {
